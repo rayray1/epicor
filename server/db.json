@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "name": "Lyra Costaaaa",
+      "street": "Cowley Brae",
+      "email": "costabomb@outlook.com",
+      "phone": "044444",
+      "age": 18,
+      "id": 2
+    },
+    {
+      "name": "Lacy Moyer",
+      "street": "Royston Piece",
+      "email": "jixugle@icloud.com",
+      "phone": "(341) 659-0931",
+      "age": 34,
+      "id": 4
+    },
+    {
+      "name": "Lili Greenaway",
+      "street": "Brighton Alley",
+      "email": "lililili@yahoo.cakk",
+      "phone": "(693) 609-2328",
+      "age": 6277,
+      "id": 5
+    },
+    {
+      "name": "Kadeem Pemberton",
+      "street": "Ladywell Hill",
+      "email": "kdpbt@msn.com",
+      "phone": "(531) 739-6589",
+      "age": 94,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Chace Fellows",
+      "street": "Century Meadows",
+      "email": "moinefou@verizon.net",
+      "phone": "(987) 811-4594",
+      "age": 29
+    },
+    {
+      "name": "Eryn Salter",
+      "street": "Noble Paddocks",
+      "email": "esalter@comcast.net",
+      "phone": "(226) 905-3410",
+      "age": 66,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Ariyan Hartley",
+      "street": "Crawston Place",
+      "email": "ariyanh@optonline.net",
+      "phone": "(906) 991-4278",
+      "age": 30
+    },
+    {
+      "id": 10,
+      "name": "Nicole Mccaffrey",
+      "street": "Walpole Limes",
+      "email": "nic@caffrey.com",
+      "phone": "(678) 760-2090",
+      "age": 61
+    },
+    {
+      "name": "Raymond Ray",
+      "street": "Home",
+      "email": "rayray@yahoo.com",
+      "phone": "122344",
+      "age": 5555,
+      "id": 11
+    },
+    {
+      "name": "John Doe",
+      "street": "home",
+      "email": "john-doe@gmail.com",
+      "phone": "44444",
+      "age": 33,
+      "id": 12
+    }
+  ]
+}
