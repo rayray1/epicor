@@ -19,8 +19,8 @@ export function Table({ contacts, handleEditClick }: TableProps) {
 					<FBTable.HeadCell className='sr-only'>Edit</FBTable.HeadCell>
 				</FBTable.Head>
 				<FBTable.Body className='divide-y'>
-					{contacts.map((contact: ContactsType) => (
-						<FBTable.Row key={contact.id} className='bg-white'>
+					{contacts.map((contact: ContactsType, index: number) => (
+						<FBTable.Row key={index} className='bg-white'>
 							<FBTable.Cell>{contact.name}</FBTable.Cell>
 							<FBTable.Cell>{contact.email}</FBTable.Cell>
 							<FBTable.Cell>{contact.phone}</FBTable.Cell>
